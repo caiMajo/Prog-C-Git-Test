@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int mai(void) {
+int main(void) {
 	printf("Hola, Món!\n")
 	return 0;
 }
